@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #conversation between two persons using variables
-PERSON1 = Ramesh
-PERSON2 = Suresh
+PERSON1=Ramesh
+PERSON2=Suresh
 
 echo "$PERSON1" :: "Hi $PERSON2, How are you?"
 echo "$PERSON2" :: "Hi $PERSON1, Iam good and how are you?"
